@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">List App</string>
+
+    <string-array name="items">
+        <item>peach</item>
+        <item>tomato</item>
+        <item>broccoli</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$0.59</item>
+        <item>$1.29</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Fresh peaches from Georgia</item>
+        <item>Fresh red tomatoes from Florida</item>
+        <item>Fresh organic broccoli from Maine</item>
+    </string-array>
+</resources>
+
